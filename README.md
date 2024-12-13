@@ -15,7 +15,7 @@ BRAINAI appears to be a project or token designed to deliver enterprise-grade ar
 - 📝 Markdown message formatting support
 - 🔍 Comprehensive error logging and monitoring
 - 🎯 Mention-based triggering system
-- 🌐 Built on HexAi Protocol infrastructure
+- 🌐 Built on BrainAi Protocol infrastructure
 
 ## 🛠️ Prerequisites
 
